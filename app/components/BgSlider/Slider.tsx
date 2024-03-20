@@ -69,7 +69,7 @@ const ImageSlider = ({
           {book ? (
             <Link
               href="https://docs.google.com/forms/d/e/1FAIpQLSfXFIgJ6aV98g5ZyU4HJLhQgC-3x2upfC_Mmx1K17r8Wtgh1Q/viewform?usp=sf_link"
-              className="flex w-full flex-col items-center justify-center mt-[8rem]" style={{ border: "2px solid white" }}
+              className="flex w-full flex-col items-center justify-center mt-[8rem] mb-[2rem] md:mb-0" style={{ border: "2px solid white" }}
             >
               <div
                 className="font-[700] text-[20px] uppercase px-4 py-4" 

@@ -23,7 +23,7 @@ const cards = [
 const MeetTutors = () => {
   return (
     <div className="flex flex-col md:gap-[2rem] gap-[1rem] md:mt-[4rem] mt-[2rem] justify-center items-center">
-      <h3 className="text-[20px] uppercase font-[600] text-[#030156]">Meet The Tutors</h3>
+      <h3 className="text-[20px] uppercase font-[600] text-[#030156]">Meet The Tutors for 3.0</h3>
       <CardCarousel cards={cards} />
     </div>
   );
