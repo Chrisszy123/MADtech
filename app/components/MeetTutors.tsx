@@ -10,7 +10,7 @@ const cards = [
   {
     title: "Jago Emmanuel",
     description: "Business Development",
-    image: "/images/jago.png",
+    image: "/images/jago.jpeg",
   },
   {
     title: "Engee Titus",
