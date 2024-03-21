@@ -27,7 +27,7 @@ const AboutGIC = () => {
             a word from Pcee
           </h2>
           <div className="md:hidden flex flex-col justify-center gap-[1rem] ">
-          <p className="text-[12px] font-[300] leading-[20px]">
+          <span className="text-[12px] font-[300] leading-[20px]">
             Hello dear! <br /> 
                 I'm Pastor Chidi Courage,and on behalf of our Lead
               Pastor, Pastor George Izunwa, I'm excited to welcome you to
@@ -52,7 +52,7 @@ const AboutGIC = () => {
               Pastor Chidi Courage. <br />
               Resident Pastor, Gateway International Church, Choba Satellite.
               </p>
-          </p>
+          </span>
             <div className="flex flex-col justify-center md:items-center items-start">
               <h2 className="text-[22px] font-[600] capitalize">
                 Service Times
@@ -145,7 +145,7 @@ const AboutGIC = () => {
         </p>
 
         <div className="flex flex-col justify-center gap-[1rem] ">
-          <p className="text-[12px] font-[300] leading-[20px]">
+          <span className="text-[12px] font-[300] leading-[20px]">
             Hello dear! <br /> 
                 I'm Pastor Chidi Courage,and on behalf of our Lead
               Pastor, Pastor George Izunwa, I'm excited to welcome you to
@@ -170,7 +170,7 @@ const AboutGIC = () => {
               Pastor Chidi Courage. <br />
               Resident Pastor, Gateway International Church, Choba Satellite.
               </p>
-          </p>
+          </span>
           <div className="flex flex-col justify-center items-center">
             <h2 className="text-[22px] font-[600] capitalize">Service Times</h2>
             <div className="flex flex-col justify-start items-start">
