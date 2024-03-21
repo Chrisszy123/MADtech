@@ -15,7 +15,7 @@ const cards = [
   {
     title: "Engee Titus",
     description: "Digital Marketing",
-    image: "/images/titus.jpg",
+    image: "/images/titus.png",
   }
   // Add more card objects as needed
 ];
