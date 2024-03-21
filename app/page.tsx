@@ -16,17 +16,17 @@ export default function Home() {
     {
       title: "Emmanuel Kefas",
       description:
-        "Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet eget enim non mattis. Semper cursus cursus vestibulum imperdiet enim non. Posuere ac elementum cursus volutpat cras morbi.Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet egetenim non mattis. Semper cursus cursus vestibulum imperdiet enim non. ",
+        "Hello good evening sir Titus  I've gotten a scholarship with Harvoxx tech Hub, and I've gotten this opportunity through madtech, thank you for the madtech.️ my first class is starting this Thursday, All thanks to MADTECH",
     },
     {
       title: "Dayo Moses",
       description:
-        "Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet eget enim non mattis. Semper cursus cursus vestibulum imperdiet enim non. Posuere ac elementum cursus volutpat cras morbi.Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet egetenim non mattis. Semper cursus cursus vestibulum imperdiet enim non. ",
+        "Thank you for the opportunity to tap from your wealth of knowledge.I learnt a lot in this boot camp [ MAD Tech summit] To Engee Titus and every other facilitator.Remain blessed. ",
     },
     {
-      title: "Esther Appiah ",
+      title: "Esther Appiah",
       description:
-        "Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet eget enim non mattis. Semper cursus cursus vestibulum imperdiet enim non. Posuere ac elementum cursus volutpat cras morbi.Lorem ipsum dolor sit amet consectetur. Commodo donec at ipsum et et enim donec scelerisque. Aliquam amet egetenim non mattis. Semper cursus cursus vestibulum imperdiet enim non. ",
+        "I was a part of the frontend engineering bootcamp where I learnt a lot and saw myself improve massively, I want to thank Gateway choba lighthouse for making this opportunity available through MADTECH. ",
     },
     // Add more image objects as needed
   ];

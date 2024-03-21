@@ -8,14 +8,14 @@ const cards = [
     image: "/images/9.png",
   },
   {
-    title: "Goodluck gabriel",
-    description: "fullstack developer",
-    image: "/images/bg2.png",
+    title: "Jago Emmanuel",
+    description: "Business Development",
+    image: "/images/jago.png",
   },
   {
-    title: "ameh khadeejah",
-    description: "community manager",
-    image: "/images/bg3.png",
+    title: "Engee Titus",
+    description: "Digital Marketing",
+    image: "/images/titus.jpg",
   }
   // Add more card objects as needed
 ];
